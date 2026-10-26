@@ -4,12 +4,12 @@ Premiere Pro için Smart Editor paneli. Bu depoda kaynak kod yok, yalnızca imza
 
 ## İndir
 
-**[SmartEditor_0.1.3.dmg](https://github.com/menestopal/SmartEditor-releases/releases/download/v0.1.3/SmartEditor_0.1.3.dmg)** (sürüm 0.1.3)
+**[SmartEditor_0.1.4.dmg](https://github.com/menestopal/SmartEditor-releases/releases/download/v0.1.4/SmartEditor_0.1.4.dmg)** (sürüm 0.1.4)
 
 Önceki sürümler: [Sürümler](https://github.com/menestopal/SmartEditor-releases/releases). Sürüm sayfasında yalnızca `.dmg` dosyasını indirin;
 "Source code" arşivlerini GitHub kendiliğinden ekler, kurulum için gerekmez.
 
-## Smart Editor 0.1.3 — Kurulum
+## Smart Editor 0.1.4 — Kurulum
 
 Smart Editor, Premiere Pro için bir panel ve onu bilgisayarınızda çalıştıran
 yerel bir motordur. Kurulumun kendisi bir dakika sürer; eksik araçların
@@ -20,14 +20,14 @@ Windows desteklenmez.
 
 ### 1. Diski açın
 
-İndirdiğiniz `SmartEditor_0.1.3.dmg` dosyasını çift tıklayın. Finder'da
-**Smart Editor 0.1.3** adlı bir disk açılır, içinde üç dosya vardır:
+İndirdiğiniz `SmartEditor_0.1.4.dmg` dosyasını çift tıklayın. Finder'da
+**Smart Editor 0.1.4** adlı bir disk açılır, içinde üç dosya vardır:
 
 | | |
 |---|---|
 | `Kur.command` | Kurulum: paketi yerine açar, Dock uygulamasını oluşturur, eksik araçları söyler |
 | `KURULUM.html` | Kurulum talimatları — bu metin |
-| `SmartEditor_0.1.3.zxp` | Premiere Pro eklentisi: panel ve motor bir arada, imzalı. Elle açmanız gerekmez |
+| `SmartEditor_0.1.4.zxp` | Premiere Pro eklentisi: panel ve motor bir arada, imzalı. Elle açmanız gerekmez |
 
 ### 2. Kurun
 
